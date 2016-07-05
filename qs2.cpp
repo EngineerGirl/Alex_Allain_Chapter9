@@ -25,8 +25,7 @@ int i=0;
 	{
 		int andaaz;
 		cin>>andaaz;
-		if ( a == andaaz) cout<<"After "<<\
-			i << " guesses.. Great job!! YOU WON 25 cents"<< endl;
+		if ( a == andaaz) cout<<"Great job!! YOU WON 25 cents"<< endl;
 		else if (andaaz>a) cout<< "Way high"<<endl;
 		else if (andaaz<a) cout<< "Way low"<<endl;
 	i++;
