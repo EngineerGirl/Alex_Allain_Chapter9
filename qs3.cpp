@@ -17,17 +17,17 @@ int main()
 {
 srand(time(NULL));
 
-int a = (rand()%101);
-cout<< a<<endl;
+int number = (rand()%101);
+cout<< number<<endl;
 int i=0;
 	while (i < 10)
 	{
-		int andaaz;
-		cin>>andaaz;
-		if ( a == andaaz) cout<<"After "<<\
+		int guess;
+		cin>>guess;
+		if ( number == guess) cout<<"After "<<\
 			i << " guesses.. Great job!! YOU WON 25 cents"<< endl;
-		else if (andaaz>a) cout<< "Way high"<<endl;
-		else if (andaaz<a) cout<< "Way low"<<endl;
+		else if (guess>number) cout<< "Way high"<<endl;
+		else if (guess<number) cout<< "Way low"<<endl;
 	i++;
 	}
 system ("pause");
