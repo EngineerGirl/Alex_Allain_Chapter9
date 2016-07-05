@@ -18,16 +18,13 @@ using namespace std;
 
 int main()
 {
-int seed = time (NULL);
-cout<<seed<<endl;
-srand (seed);
+srand (time(NULL));
 
 	for(int i = 0; i<10; i++)
 	{
 		int a = (rand()%2);
-  //cout<< a<<endl;
-  if ( a == 0) cout<< "\n Heads"<< endl;
-  else cout<< "\n tails"<<endl;
+  		if ( a == 0) cout<< "\n Heads"<< endl;
+		 else cout<< "\n tails"<<endl;
 	}
 system ("pause");
 return 0;
