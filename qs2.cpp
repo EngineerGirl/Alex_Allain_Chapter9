@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs2.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Write a program that picks a number between 1 and 100, and then lets the user guess what the
                number is. The program should tell the user if their guess is too high, too low, or just right.
  ==============================================================================================================================
