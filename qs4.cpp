@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs4.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Make a "slot machine" game that randomly displays the results of a slot machine to a player—have 3
                (or more) possible values for each wheel of the slot machine. Don't worry about displaying the text
                "spinning" by. Just choose the results and display them and print out the winnings (choose your own
