@@ -13,9 +13,6 @@
 #include <ctime>
 using namespace std;
 
-#include <cstdlib>
-#include <ctime>
-
 int main()
 {
 srand (time(NULL));
